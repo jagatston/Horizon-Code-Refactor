@@ -1,0 +1,1 @@
+This code has been reviewed and refactored to meet the standards set in the acceptance criteria. The code is meant to not be altered at all but made more accessible.
