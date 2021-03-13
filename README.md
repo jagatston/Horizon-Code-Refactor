@@ -1,1 +1,13 @@
-This code has been reviewed and refactored to meet the standards set in the acceptance criteria. The code is meant not to be altered at all but made more accessible.
+# Horiseon Code Refactor
+
+## Link to Deployed Application
+
+[Github Pages Webpage](https://jagatston.github.io/Horizon-Code-Refactor/)
+
+## Screenshot
+
+
+![Horiseon Code Refactor](./assets/images/horiseon-code-refactor.png)
+
+
+
